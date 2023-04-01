@@ -1,8 +1,9 @@
-# Getting Started with Create React App
+# Jennifer Roques - Software Engineer
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Thank you for stopping by!
+On this site you can learn a little about me and what I do. 
 
 In the project directory, you can run:
 
