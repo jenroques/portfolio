@@ -5,6 +5,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Thank you for stopping by!
 On this site you can learn a little about me and what I do. 
 
+
+## React Documentation:
 In the project directory, you can run:
 
 ### `npm start`
